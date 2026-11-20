@@ -1,0 +1,14 @@
+
+Date,Type,Category,Description,Amount
+2026-11-01,Income,Salary,Monthly income,15000
+2026-11-02,Expense,Food,Groceries,500
+2026-11-03,Expense,Transport,Bus fare,200
+2026-11-04,Expense,Education,Books,800
+2026-11-05,Expense,Shopping,Clothes,1200
+2026-11-07,Expense,Food,Restaurant,400
+2026-11-09,Expense,Entertainment,Movie,350
+2026-11-10,Income,Freelance,Freelance work,3000
+2026-11-12,Expense,Bills,Internet bill,700
+2026-11-14,Expense,Transport,Auto fare,250
+2026-11-15,Expense,Healthcare,Medicines,300
+2026-11-17,Expense,Food,Groceries,600
