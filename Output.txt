@@ -1,0 +1,175 @@
+====================================
+       PERSONAL BUDGET TRACKER
+====================================
+1. Add Income / Expense
+2. View All Transactions
+3. Financial Summary
+4. Category-wise Analysis
+5. Expense Statistics
+6. Search Transaction by Date
+7. Monthly Analysis
+8. Load Data from Pickle
+9. Exit
+
+Enter your choice: 1
+
+----- ADD TRANSACTION -----
+1. Income
+2. Expense
+Enter your choice: 2
+Enter date (YYYY-MM-DD): 2006-08-09
+Enter category: salary
+Enter description: monthly income
+Enter amount: 15000
+
+Data saved successfully!
+Transaction added successfully!
+
+====================================
+       PERSONAL BUDGET TRACKER
+====================================
+1. Add Income / Expense
+2. View All Transactions
+3. Financial Summary
+4. Category-wise Analysis
+5. Expense Statistics
+6. Search Transaction by Date
+7. Monthly Analysis
+8. Load Data from Pickle
+9. Exit
+
+Enter your choice: 3
+
+----- FINANCIAL SUMMARY -----
+Total Income: Rs. 18000.0
+Total Expenses: Rs. 20300.0
+Total Savings: Rs. -2300.0
+Saving Percentage: -12.78 %
+
+====================================
+       PERSONAL BUDGET TRACKER
+====================================
+1. Add Income / Expense
+2. View All Transactions
+3. Financial Summary
+4. Category-wise Analysis
+5. Expense Statistics
+6. Search Transaction by Date
+7. Monthly Analysis
+8. Load Data from Pickle
+9. Exit
+
+Enter your choice: 4
+
+----- CATEGORY ANALYSIS -----
+Category
+Bills              700.0
+Education          800.0
+Entertainment      350.0
+Food              1500.0
+Healthcare         300.0
+Shopping          1200.0
+Transport          450.0
+salary           15000.0
+
+Highest Spending Category:
+salary
+Highest Amount: Rs. 15000.0
+
+====================================
+       PERSONAL BUDGET TRACKER
+====================================
+1. Add Income / Expense
+2. View All Transactions
+3. Financial Summary
+4. Category-wise Analysis
+5. Expense Statistics
+6. Search Transaction by Date
+7. Monthly Analysis
+8. Load Data from Pickle
+9. Exit
+
+Enter your choice: 5
+
+----- EXPENSE STATISTICS -----
+Highest Expense: Rs. 15000.0
+Lowest Expense: Rs. 200.0
+Average Expense: Rs. 1845.45
+Total Expense: Rs. 20300.0
+
+====================================
+       PERSONAL BUDGET TRACKER
+====================================
+1. Add Income / Expense
+2. View All Transactions
+3. Financial Summary
+4. Category-wise Analysis
+5. Expense Statistics
+6. Search Transaction by Date
+7. Monthly Analysis
+8. Load Data from Pickle
+9. Exit
+
+Enter your choice: 6
+
+----- SEARCH TRANSACTION -----
+Enter date (YYYY-MM-DD): 2026-11-20
+No transactions found for this date.
+
+====================================
+       PERSONAL BUDGET TRACKER
+====================================
+1. Add Income / Expense
+2. View All Transactions
+3. Financial Summary
+4. Category-wise Analysis
+5. Expense Statistics
+6. Search Transaction by Date
+7. Monthly Analysis
+8. Load Data from Pickle
+9. Exit
+
+Enter your choice: 7
+
+----- MONTHLY ANALYSIS -----
+Type     Expense   Income
+Month                    
+2006-08  15000.0      0.0
+2026-11   5300.0  18000.0
+
+====================================
+       PERSONAL BUDGET TRACKER
+====================================
+1. Add Income / Expense
+2. View All Transactions
+3. Financial Summary
+4. Category-wise Analysis
+5. Expense Statistics
+6. Search Transaction by Date
+7. Monthly Analysis
+8. Load Data from Pickle
+9. Exit
+
+Enter your choice: 8
+
+Data loaded from Pickle successfully!
+
+====================================
+       PERSONAL BUDGET TRACKER
+====================================
+1. Add Income / Expense
+2. View All Transactions
+3. Financial Summary
+4. Category-wise Analysis
+5. Expense Statistics
+6. Search Transaction by Date
+7. Monthly Analysis
+8. Load Data from Pickle
+9. Exit
+
+Enter your choice: 9
+
+Data saved successfully!
+
+Thank you for using Budget Tracker!
+PS C:\Users\rajit\Downloads\personal budget tracker>
